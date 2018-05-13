@@ -55,7 +55,7 @@
     "chai": "~4.1.1",
     "grunt": "~1.0.1",
     "grunt-mocha-test": "~0.13.2",
-    "grunt-contrib-watch": "~1.0.0",
+    "grunt-contrib-watch": "~1.1.0",
     "grunt-node-gyp": "~4.0.0",
     "q": "~1.5.0"
   }
